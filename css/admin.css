@@ -1,0 +1,45 @@
+#trados{
+	background: url(../images/32.png) no-repeat scroll left center transparent;
+	display: inline-block;
+    float: left;
+    height: 32px;
+    margin-right: 10px;
+    margin-top: 7px;
+    width: 32px;
+}
+
+#Trados_container{
+    border-left: 1px solid #ddd;
+    border-right: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    border-radius: 3px;
+    display: block;
+    background: #fff;
+	padding: 10px;
+}
+
+.trados .postbox{
+    border-radius: 3px;	
+}
+
+.trados .button{
+    color: #fff;
+    background-color: #428bca;
+    border-color: #357ebd;
+	min-width: 100px;
+}
+
+#postbox-container-1 h3{
+	color: #333;
+    background-color: #f5f5f5;
+    border-bottom: 1px solid #ddd;
+	padding: 10px 15px;
+}
+
+#postbox-container-2 .page-header{
+	color: #333;
+    background-color: #f5f5f5;
+    border: 1px solid #ddd;
+	padding: 10px 15px;
+    border-radius: 3px;
+}
